@@ -1,0 +1,22 @@
+2023-02-24T00:01:47.8833409 500 : [{"timestamp":"2023-02-24T05:01:47.852+00:00","status":500,"error":"Internal Server Error","message":"No DataSource set","path":"/register"}]
+2023-02-24T00:09:17.7756311 500 : [{"timestamp":"2023-02-24T05:09:17.748+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (531 bytes)]
+2023-02-24T00:09:21.13392 500 : [{"timestamp":"2023-02-24T05:09:21.132+00:00","status":500,"error":"Internal Server Error","message":"No DataSource set","path":"/register"}]
+2023-02-24T00:09:24.6839137 500 : [{"timestamp":"2023-02-24T05:09:24.682+00:00","status":500,"error":"Internal Server Error","message":"No DataSource set","path":"/register"}]
+2023-02-24T00:09:27.532974 500 : [{"timestamp":"2023-02-24T05:09:27.531+00:00","status":500,"error":"Internal Server Error","message":"No DataSource set","path":"/register"}]
+2023-02-24T00:15:54.4853212 500 : [{"timestamp":"2023-02-24T05:15:54.452+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"org.springframework.jdbc.core.JdbcTemplate.update(String, Object[])\" because \"this.jdbcTemplate\" is null","path":"/register"}]
+2023-02-24T00:19:47.1283923 500 : [{"timestamp":"2023-02-24T05:19:47.093+00:00","status":500,"error":"Internal Server Error","message":"No DataSource set","path":"/register"}]
+<<<<<<< HEAD
+2023-02-24T00:30:27.8431721 500 : [{"timestamp":"2023-02-24T05:30:27.816+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (533 bytes)]
+2023-02-24T00:30:47.3990587 401 : [no body]
+=======
+2023-02-24T00:17:43.4555384 401 : [no body]
+>>>>>>> 1a860f2ec87d1887e85edb5c75934b27bbe77a5c
+<<<<<<< HEAD
+2023-02-24T13:04:25.7333355 500 : [{"timestamp":"2023-02-24T18:04:25.684+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.JdbcAccountDao.create(int)\" because \"this.accDao\" is null","path":"/register"}]
+2023-02-24T13:32:42.7285638 500 : [{"timestamp":"2023-02-24T18:32:42.704+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (531 bytes)]
+=======
+2023-02-24T02:51:11.9916452 401 : [no body]
+2023-02-24T02:55:43.4890567 401 : [no body]
+2023-02-24T02:59:00.1590688 401 : [no body]
+2023-02-24T03:00:24.8101093 401 : [no body]
+>>>>>>> dda836d88ee8760c6344ec6da0b5188dd9ec4666

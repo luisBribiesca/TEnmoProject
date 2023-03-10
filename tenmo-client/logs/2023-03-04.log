@@ -1,0 +1,40 @@
+2023-03-04T00:03:28.6808189 500 : 
+2023-03-04T00:23:28.7144724 500 : 
+2023-03-04T00:54:40.0354915 500 : 
+2023-03-04T01:16:05.2836379 500 : 
+2023-03-04T01:17:23.5193708 500 : 
+
+2023-03-04T02:08:14.5039882 404 : [{"timestamp":"2023-03-04T08:08:14.050+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers2002"}]
+2023-03-04T02:11:24.1533931 404 : [{"timestamp":"2023-03-04T08:11:24.013+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers2002"}]
+2023-03-04T02:52:02.7182769 401 : [{"timestamp":"2023-03-04T08:52:02.538+00:00","status":401,"error":"Unauthorized","message":"The User ID: 1500 was not found.","path":"/accounts/1500"}]
+2023-03-04T04:07:30.7163221 500 : [{"timestamp":"2023-03-04T10:07:30.660+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2001/pending"}]
+2023-03-04T04:09:36.713437 500 : [{"timestamp":"2023-03-04T10:09:36.654+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2002/pending"}]
+2023-03-04T04:10:09.0561748 500 : [{"timestamp":"2023-03-04T10:10:09.014+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2002/pending"}]
+2023-03-04T18:19:47.1890992 500 : [{"timestamp":"2023-03-04T23:19:47.141+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2001/pending"}]
+2023-03-04T18:20:34.4175607 500 : [{"timestamp":"2023-03-04T23:20:34.416+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2001/pending"}]
+2023-03-04T18:25:15.4556707 401 : [no body]
+2023-03-04T18:25:23.6700681 401 : [no body]
+2023-03-04T18:25:41.8673768 401 : [no body]
+2023-03-04T18:29:47.3518817 500 : 
+2023-03-04T18:30:06.5264992 500 : [{"timestamp":"2023-03-04T23:30:06.525+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2001/pending"}]
+2023-03-04T18:30:24.4603943 500 : [{"timestamp":"2023-03-04T23:30:24.449+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2003/pending"}]
+2023-03-04T18:45:10.4997755 I/O error on GET request for "http://localhost:8080/transfers/2003/pending": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-04T18:46:40.6338739 500 : [{"timestamp":"2023-03-04T23:46:40.619+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2003/pending"}]
+2023-03-04T18:50:29.5679264 I/O error on GET request for "http://localhost:8080/transfers/2003/pending": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-04T18:54:16.8006582 500 : [{"timestamp":"2023-03-04T23:54:16.784+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2003/pending"}]
+2023-03-04T18:56:33.4202344 500 : [{"timestamp":"2023-03-04T23:56:33.418+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/2003/pending"}]
+2023-03-04T19:03:43.5963732 500 : [{"timestamp":"2023-03-05T00:03:43.577+00:00","status":500,"error":"Internal Server Error","message":"Index 2 out of bounds for length 2","path":"/transfers/2003/pending"}]
+2023-03-04T19:04:51.6831962 500 : [{"timestamp":"2023-03-05T00:04:51.681+00:00","status":500,"error":"Internal Server Error","message":"Index 2 out of bounds for length 2","path":"/transfers/2003/pending"}]
+2023-03-04T19:08:44.8794781 500 : [{"timestamp":"2023-03-05T00:08:44.865+00:00","status":500,"error":"Internal Server Error","message":"Index 2 out of bounds for length 2","path":"/transfers/2003/pending"}]
+2023-03-04T19:08:49.6164629 500 : [{"timestamp":"2023-03-05T00:08:49.614+00:00","status":500,"error":"Internal Server Error","message":"Index 2 out of bounds for length 2","path":"/transfers/2003/pending"}]
+2023-03-04T19:10:27.6649447 500 : [{"timestamp":"2023-03-05T00:10:27.650+00:00","status":500,"error":"Internal Server Error","message":"Index 2 out of bounds for length 2","path":"/transfers/2003/pending"}]
+2023-03-04T19:11:15.3893506 500 : [{"timestamp":"2023-03-05T00:11:15.375+00:00","status":500,"error":"Internal Server Error","message":"Index 1 out of bounds for length 1","path":"/transfers/2003/pending"}]
+2023-03-04T22:54:43.637327 401 : [no body]
+2023-03-04T22:54:50.0690178 401 : [no body]
+2023-03-04T22:55:34.9252196 401 : [no body]
+2023-03-04T22:55:41.5815536 401 : [no body]
+2023-03-04T22:56:58.2143793 401 : [no body]
+2023-03-04T23:02:15.5860724 401 : [{"timestamp":"2023-03-05T04:02:15.560+00:00","status":401,"error":"Unauthorized","message":"The User ID: 1005 was not found.","path":"/accounts/1005"}]
+2023-03-04T23:05:22.951534 401 : [{"timestamp":"2023-03-05T04:05:22.936+00:00","status":401,"error":"Unauthorized","message":"The User ID: 1005 was not found.","path":"/accounts/1005"}]
+2023-03-04T23:05:53.903274 401 : [{"timestamp":"2023-03-05T04:05:53.887+00:00","status":401,"error":"Unauthorized","message":"The User ID: 1005 was not found.","path":"/accounts/1005"}]
+2023-03-04T23:53:02.0121902 401 : [{"timestamp":"2023-03-05T04:53:01.995+00:00","status":401,"error":"Unauthorized","message":"The User ID: 1005 was not found.","path":"/accounts/1005"}]
